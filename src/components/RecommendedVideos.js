@@ -1,6 +1,6 @@
 import React from 'react';
-import "./RecommendedVideos.css";
-import VideoCard from "./VideoCard"
+import "../css/RecommendedVideos.css";
+import VideoCard from "../components/VideoCard"
 import Avatar from "@material-ui/core/Avatar";
 
 
